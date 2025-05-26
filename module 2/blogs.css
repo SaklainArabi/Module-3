@@ -1,0 +1,23 @@
+h3{
+     color: red;
+     font-size: 20px;
+     font-weight: bold;
+}
+.blog {
+     background-color: lightblue;
+     padding: 20px;
+     margin: 20px;
+     border-radius: 10px;
+     border: 20px solid rebeccapurple;
+     text-align: justify; 
+     box-shadow: rgb(27, 22, 22) 5px 5px 10px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     background-image: url('../images/Rectangle\ 5.png');
+     background-repeat: none;
+}
+.header{
+     background-color: red;
+     text-align: center;
+     margin: 2% 20%;
+     border-radius: 5px;
+}
